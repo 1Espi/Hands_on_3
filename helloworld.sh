@@ -2,8 +2,8 @@
 
 echo "Hello, World!"
 
-ls -l
+ls -l -a
 
 mkdir -p Test
 cd Test
-ls -l
+ls -l -a
